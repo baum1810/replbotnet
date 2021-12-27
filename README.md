@@ -1,2 +1,2 @@
 # replbotnet
-testing stuff for a repl.it botnet
+testing stuff on repl.it
